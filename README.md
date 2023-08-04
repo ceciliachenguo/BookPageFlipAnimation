@@ -3,7 +3,10 @@ This project showcases an iOS Book App interface built using SwiftUI. It provide
 
 ## 📱 Demo Video
 
-https://github.com/ceciliachenguo/BookPageFlipAnimation/assets/121702916/c1881b97-2e62-4ea6-9049-9e1b3599c7f2
+
+https://github.com/ceciliachenguo/BookPageFlipAnimation/assets/121702916/cf087a89-069c-45ae-b9d4-716fe3a50596
+
+
 
 ## 🌟 Features
 
